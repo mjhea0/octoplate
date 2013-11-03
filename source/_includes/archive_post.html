@@ -1,0 +1,2 @@
+{% capture category %}{{ post.categories | size }}{% endcapture %}
+<h5><span class="meta text-muted">{% include post/date.html %}{{ time }}</span>&nbsp;<a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h5>
