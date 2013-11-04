@@ -22,12 +22,12 @@ Fix the damn search
 
 ### Footer
 
-![main](https://raw.github.com/mjhea0/octoplate/master/footer.png)
+![footer](https://raw.github.com/mjhea0/octoplate/master/footer.png)
 
 ### Archive
 
-![main](https://raw.github.com/mjhea0/octoplate/master/archive.png)
+![archive](https://raw.github.com/mjhea0/octoplate/master/archive.png)
 
 ### About
 
-![main](https://raw.github.com/mjhea0/octoplate/master/about.png)
+![about](https://raw.github.com/mjhea0/octoplate/master/about.png)
