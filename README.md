@@ -1,6 +1,6 @@
 # Octoplate
 
-Boilerplate for [Octopress](http://octopress.org) based on Twitter Bootstrap 3.
+Boilerplate for [Octopress](http://octopress.org) using. Twitter Bootstrap 3. Based on [Octostrap3](https://github.com/kAworu/octostrap3).
 
 ## Install
 
